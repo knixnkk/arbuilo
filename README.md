@@ -31,8 +31,8 @@ If the ESP32 is not connecting to your wifi network, check that the ssid and pas
 If the ESP32 is not connecting to the Blynk cloud service, check that the BLYNK_TEMPLATE_ID, BLYNK_DEVICE_NAME, and BLYNK_AUTH_TOKEN variables have the correct values.
 ```
 ## Additional Resources
-[Blynk website](https://blynk.io/)
-[Blynk documentation](https://docs.blynk.io/en/)
-[ESP32 Arduino core](https://github.com/espressif/arduino-esp32)
+- [Blynk website](https://blynk.io/)
+- [Blynk documentation](https://docs.blynk.io/en/)
+- [ESP32 Arduino core](https://github.com/espressif/arduino-esp32)
 ## Contribution
-> If you want to contribute to this repository, please fork it and make a pull request with your changes.
++ If you want to contribute to this repository, please fork it and make a pull request with your changes.
