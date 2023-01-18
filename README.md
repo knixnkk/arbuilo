@@ -8,18 +8,20 @@ This example code demonstrates how to use the Blynk library on an ESP32 microcon
 > Arduino IDE or other compatible development environment
 > Blynk library for ESP32
 ## Setup
-> Install the Blynk library for ESP32 in your development environment.
-> Open the ledBlink.ino file in your development environment and update the following variables with your own values:
+1. Install the Blynk library for ESP32 in your development environment.
+2. Open the ledBlink.ino file in your development environment and update the following variables with your own values:
+```
 - BLYNK_TEMPLATE_ID\n
 - BLYNK_DEVICE_NAME
 - BLYNK_AUTH_TOKEN
-> ssid and pass with your wifi network name and password.
-> Connect your ESP32 development board to your computer using the USB cable.
-> Select the correct board and port in your development environment.
-> Upload the code to your ESP32 board.
-> Open the Serial Monitor to see the ESP32 connecting to your wifi network and Blynk cloud service.
-> Open the Blynk app on your smartphone and add a new device using the template ID, device name, and auth token provided in the code.
-> Once connected, you can use the Blynk app to toggle the state of the virtual pins V0, V1, V2 and V3 and see the state of these pins in the serial monitor.
+```
+3. ssid and pass with your wifi network name and password.
+4.  Connect your ESP32 development board to your computer using the USB cable.
+5.  Select the correct board and port in your development environment.
+6.  Upload the code to your ESP32 board.
+7.  Open the Serial Monitor to see the ESP32 connecting to your wifi network and Blynk cloud service.
+8.  Open the Blynk app on your smartphone and add a new device using the template ID, device name, and auth token provided in the code.
+9.  Once connected, you can use the Blynk app to toggle the state of the virtual pins V0, V1, V2 and V3 and see the state of these pins in the serial monitor.
 ## Notes
 ```
 Make sure to use the correct board and port in your development environment.
