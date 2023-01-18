@@ -11,11 +11,11 @@ This example code demonstrates how to use the Blynk library on an ESP32 microcon
 1. Install the Blynk library for ESP32 in your development environment.
 2. Open the ledBlink.ino file in your development environment and update the following variables with your own values:
 ```
-- BLYNK_TEMPLATE_ID\n
+- BLYNK_TEMPLATE_ID
 - BLYNK_DEVICE_NAME
 - BLYNK_AUTH_TOKEN
 ```
-3. ssid and pass with your wifi network name and password.
+3.  Change ssid and pass with your wifi network name and password.
 4.  Connect your ESP32 development board to your computer using the USB cable.
 5.  Select the correct board and port in your development environment.
 6.  Upload the code to your ESP32 board.
